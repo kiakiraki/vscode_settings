@@ -1,0 +1,54 @@
+{
+    "editor.fontFamily": "'Ricty Diminished' ,Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.renderWhitespace": "all",
+    "editor.mouseWheelZoom": true,
+    "editor.fontLigatures": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderIndentGuides": true,
+    "editor.renderLineHighlight": "all",
+    "editor.cursorBlinking": "phase",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.minimap.maxColumn": 160,
+    "editor.rulers": [
+        80
+    ],
+    "editor.smoothScrolling": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "terminal.integrated.fontSize": 16,
+    "files.autoGuessEncoding": true,
+    "window.restoreWindows": "none",
+    "markdown.preview.fontSize": 16,
+    "markdown.preview.breaks": true,
+    "editor.minimap.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.autoComplete.addBrackets": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "files.associations": {
+        "*.prototxt": "prototxt"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "debug.inlineValues": true,
+    "terminal.external.windowsExec": "%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "problems.decorations.enabled": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "git.autofetch": true,
+    "gitlens.gitExplorer.files.layout": "auto",
+    "jupyter.appendResults": true
+}
