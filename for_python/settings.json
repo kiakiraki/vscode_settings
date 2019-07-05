@@ -1,13 +1,12 @@
 {
-    "editor.fontFamily": "'Ricty Diminished' , cica, Consolas, 'Courier New', monospace",
-    "editor.fontSize": 16,
+    "editor.fontFamily": "'HackGen', 'Ricty Diminished' , cica, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 15,
     "editor.renderWhitespace": "all",
     "editor.mouseWheelZoom": true,
     "editor.fontLigatures": true,
     "editor.renderControlCharacters": true,
     "editor.renderIndentGuides": true,
     "editor.renderLineHighlight": "all",
-    "editor.cursorBlinking": "phase",
     "editor.formatOnPaste": true,
     "editor.minimap.maxColumn": 160,
     "editor.rulers": [
@@ -47,7 +46,6 @@
         "suppressShowKeyBindingsNotice": true
     },
     "git.autofetch": true,
-    "workbench.iconTheme": "material-icon-theme",
     "files.exclude": {
         "**/*.hdf5": true
     },
@@ -72,9 +70,18 @@
     "workbench.editor.highlightModifiedTabs": true,
     "emmet.showSuggestionsAsSnippets": true,
     "editor.snippetSuggestions": "bottom",
-    "python.condaPath": "D:\\\\ProgramData\\\\Anaconda3\\\\Scripts\\\\conda.exe",
     "python.jediEnabled": false,
     "gitlens.views.repositories.files.layout": "auto",
-    "python.linting.pep8Path": "D:\\ProgramData\\Anaconda3\\envs\\tf\\Scripts\\pep8.exe",
-    "python.formatting.autopep8Path": "D:\\ProgramData\\Anaconda3\\envs\\tf\\Scripts\\autopep8.exe",
+    "python.linting.pep8Path": "D:\\Users\\atsur\\Miniconda3\\Scripts\\pep8.exe",
+    "python.formatting.autopep8Path": "D:\\Users\\atsur\\Miniconda3\\Scripts\\autopep8.exe",
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.condaPath": "D:\\Users\\atsur\\Miniconda3\\Scripts\\conda.exe",
+    "editor.tabCompletion": "on",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.list.horizontalScrolling": true
 }
