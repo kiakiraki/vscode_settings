@@ -25,7 +25,7 @@
     "markdown.preview.breaks": true,
     "editor.minimap.enabled": true,
     "python.linting.pylintEnabled": false,
-    "python.linting.pep8Enabled": true,
+    "python.linting.pycodestyleEnabled": true,
     "python.autoComplete.addBrackets": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
@@ -72,7 +72,7 @@
     "editor.snippetSuggestions": "bottom",
     "python.jediEnabled": false,
     "gitlens.views.repositories.files.layout": "auto",
-    "python.linting.pep8Path": "D:\\Users\\atsur\\Miniconda3\\Scripts\\pep8.exe",
+    "python.linting.pycodestylePath": "D:\\Users\\atsur\\Miniconda3\\Scripts\\pep8.exe",
     "python.formatting.autopep8Path": "D:\\Users\\atsur\\Miniconda3\\Scripts\\autopep8.exe",
     "python.dataScience.sendSelectionToInteractiveWindow": true,
     "editor.suggestSelection": "first",
@@ -83,5 +83,7 @@
     "editor.cursorSmoothCaretAnimation": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "workbench.list.horizontalScrolling": true
+    "workbench.list.horizontalScrolling": true,
+    "python.dataScience.askForKernelRestart": false,
+    "terminal.integrated.inheritEnv": false
 }
